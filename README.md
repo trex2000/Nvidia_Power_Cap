@@ -69,4 +69,3 @@ nvidia-persistenced: The service must be enabled as the TDP script relies on it.
 
     Note for the "Thin" Enthusiast: This setup keeps your power draw thin and your thermals cool. If the aliens finally land in Transylvania, at least your GPUs won't be the reason the grid goes down.
 
-Would you like me to add a Python-based monitor script to log these metrics to a CSV for your IOT dashboard?
